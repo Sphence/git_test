@@ -1,1 +1,1 @@
-This is Sphencere's first git project!
+This is Sphence's first git project!
